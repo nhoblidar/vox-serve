@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/voxserve/__init__.py
+src/voxserve.egg-info/PKG-INFO
+src/voxserve.egg-info/SOURCES.txt
+src/voxserve.egg-info/dependency_links.txt
+src/voxserve.egg-info/top_level.txt
+src/voxserve/audio/__init__.py
+src/voxserve/audio/capture.py
